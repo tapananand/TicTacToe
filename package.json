@@ -18,5 +18,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://tapananand.github.io/tictactoe"
+  "homepage": "https://tapananand.github.io/tictactoe"
 }
